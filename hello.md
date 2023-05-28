@@ -39,6 +39,9 @@
  
 ## Работа с картинками
  ![картинка](https://www.imgonline.com.ua/examples/bee-on-daisy.jpg)
+ ![водопад](https://w-dog.ru/wallpapers/11/3/473550050587055/kamni-mox-cvety-vodopad.jpg)
+ Для добавления картинки надо:
+ **![название картинки](путь к картинке)**
 
 ---
 
