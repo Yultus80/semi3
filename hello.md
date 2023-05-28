@@ -46,7 +46,13 @@
 ---
 
  ## работа с ссылками
- [работа с маркдаун](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid
+ [работа с маркдаун](https://skillbox.ru/media/code/yazyk-razmetki-markdown-shpargalka-po-sintaksisu-s-primerami/?ysclid)
+
+ [как поймать удачу](https://dzen.ru/a/XURcraxBJACtKHmF)
+
+ Чтобы добавить ссылку необходимо сделать следующее:
+ **[Название ссылки](Путь к ссылке)**
+
 
 ---
 
